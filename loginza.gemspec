@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{loginza}
-  s.version = "0.2.0"
+  s.version = "0.2.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Igor Galeta"]
-  s.date = %q{2011-06-14}
+  s.date = %q{2016-04-25}
   s.description = %q{Loginza - an interactive JavaScript widget provides visitors to your sites, a wide range of options for authentication through the accounts of common WEB-portals and services}
   s.email = %q{galeta.igor@gmail.com}
   s.extra_rdoc_files = [
